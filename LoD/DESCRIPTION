@@ -1,0 +1,15 @@
+Package: LoD
+Title: Limit of Detection Utilities for Targeted Gene Panel Design
+Version: 0.1
+License: GPL (>= 2)
+Authors@R: c(
+  person("Starks", "Liz",, "elizabeth.r.starks@gmail.com", c("aut", "cre", "cph")))
+Description: Utilities for estimating target panel sensitivity and limit of detection. Plots predicted relationships between DNA input, read depth and sensitivity.
+Depends: R (>= 3.2.3)
+Imports: ggplot2,
+  dplyr,
+  tidyr,
+  shiny,
+  devtools,
+  testthat
+RoxygenNote: 6.0.1
