@@ -1,6 +1,6 @@
 # R LoD package
 
-See DESCRIPTION for package details.
+See [DESCRIPTION](/LoD/DESCRIPTION) for package details.
 
 # Installation instructions
 
